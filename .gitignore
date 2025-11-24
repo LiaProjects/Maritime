@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# EasyOCR models
+.EasyOCR/
+
+# PDF files (if you don't want to commit large PDFs)
+*.pdf
+
+# Word documents (if you don't want to commit)
+*.docx
+*.doc
+
+# Temporary files
+*.tmp
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
